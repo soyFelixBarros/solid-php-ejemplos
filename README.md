@@ -12,3 +12,7 @@ Sigue los siguientes pasos para correr el proyecto en tu máquina local.
 **Paso 3.** Correr _docker-compose exec -it php-fpm composer install_ para instalar las librerías.
 
 **Paso 4.** Correr _docker-compose exec -it php-fpm ./vendor/bin/phpunit tests_ para los tests.
+
+-----
+
+Correr _docker-compose exec -it php-fpm ./vendor/bin/phpunit tests_ para los tests.
