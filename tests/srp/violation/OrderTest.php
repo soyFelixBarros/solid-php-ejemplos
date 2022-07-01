@@ -1,5 +1,7 @@
 <?php declare(strict_types=1);
 
+namespace Solid\Tests\Srp\Violation;
+
 use Solid\Srp\Violation\Order;
 use PHPUnit\Framework\TestCase;
 
